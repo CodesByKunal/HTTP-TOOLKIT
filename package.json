@@ -1,0 +1,25 @@
+{
+  "name": "http-toolkit",
+  "version": "1.0.0",
+  "description": "LoadBalancer | LoadTester | RateLimiter | Logger",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodesByKunal/HTTP-TOOLKIT.git"
+  },
+  "keywords": [
+    "LoadTester",
+    "LoadBalancer",
+    "RateLimiter",
+    "Logger"
+  ],
+  "author": "CodesByKunal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CodesByKunal/HTTP-TOOLKIT/issues"
+  },
+  "homepage": "https://github.com/CodesByKunal/HTTP-TOOLKIT#readme"
+}
